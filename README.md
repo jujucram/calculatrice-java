@@ -69,7 +69,7 @@ Ce projet est open-source et disponible sous la licence MIT.
 
 👨‍💻 Auteur
 
-Développé avec passion par Brandon. 
+ce projet a été développé par l’apparenti développeur Brandon. 
 
  ## Contactez moi pour besoin 
  - Whatsapp : +237621604697
